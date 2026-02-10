@@ -1,4 +1,5 @@
 # 🚕 Urban Surge Pricing: Predictive Modeling & BI Analysis
+[Click here to view the full Python implementation and model training pipeline](https://colab.research.google.com/drive/106BhGKNviUYpHXl7mlCUuj7N9H_bLzHB?usp=sharing)
 
 ### 🎯 Project Objective
 To build a machine learning system that identifies ride-sharing surge pricing events while maximizing user experience by reducing "false-alarm" surge alerts through high-precision modeling.
