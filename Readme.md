@@ -25,8 +25,32 @@ The Breakthrough: Engineered Spatial-Temporal Hubs and optimized the model to an
 Key Discovery: Identified that the Back Bay ➔ Boston University corridor is a primary driver of mid-week midnight surges.
 [🚀 View Full Predictive Modeling & Business Insights Report](./Predictive-Surge-Modeling-Boston.md)
 
-### Skills Highlighted
-* **Languages:** Python (Pandas, Scikit-Learn, Seaborn)
-* **Modeling:** Random Forest Classification, Threshold Tuning (Precision-Recall)
-* **Insights:** Geospatial Analysis, Temporal Demand Heatmapping
-More projects coming soon — stay tuned for more data-driven stories!
+
+
+## 2. E-Commerce Revenue Leak: From Churn Audit to 2026 Growth Strategy
+Project Overview: Goal: Identify why the Fashion department lost over $436k in revenue from 1,743 customers who returned items and never shopped again.
+
+The Investigation:
+
+Root Cause Analysis: Systematically ruled out Product Quality (ratings were 4.0+), Logistics (delivery was consistent), and Pricing as the cause of churn.
+
+The "Data Forensic" Breakthrough: Conducted a cross-department audit of 100k+ rows to discover a company-wide 100% "One-Timer" rate.
+
+The Verdict: Identified a Retention Vacuum. The 1:1 ratio of Sales-to-Customers across all categories (Automotive, Electronics, etc.) proved the business had no infrastructure to convert first-time buyers into loyalists.
+
+2026 Strategy & Impact:
+
+The Pivot: Recommended shifting resources from high-cost Customer Acquisition to Customer Lifetime Value (CLV).
+
+Economic Simulation: Modeled a recovery plan where a 10% retention rate among existing "One-Timers" projects a +$358,175 revenue boost without additional marketing spend.
+
+Skills Highlighted
+Languages: Python (Pandas, SQL/PySQLDF), Matplotlib
+
+Business Logic: Churn Analysis, Revenue Forecasting, Root Cause Analysis
+
+Data Auditing: Identifying dataset limitations to prevent false business recommendations
+
+Strategic Thinking: Customer Lifetime Value (CLV) Modeling
+
+🚀 View Full E-Commerce Analysis Notebook(./https://colab.research.google.com/drive/1AkkKyZiiVxvbAKeF0wPVzrRh5vEnGemK?usp=sharing)
