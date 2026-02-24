@@ -53,4 +53,4 @@ Data Auditing: Identifying dataset limitations to prevent false business recomme
 
 Strategic Thinking: Customer Lifetime Value (CLV) Modeling
 
-🚀 View Full E-Commerce Analysis Notebook(./https://colab.research.google.com/drive/1AkkKyZiiVxvbAKeF0wPVzrRh5vEnGemK?usp=sharing)
+[🚀 View Full E-Commerce Analysis Notebook](https://colab.research.google.com/drive/1AkkKyZiiVxvbAKeF0wPVzrRh5vEnGemK?usp=sharing)
