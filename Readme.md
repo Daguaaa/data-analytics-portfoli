@@ -44,6 +44,12 @@ The Pivot: Recommended shifting resources from high-cost Customer Acquisition to
 
 Economic Simulation: Modeled a recovery plan where a 10% retention rate among existing "One-Timers" projects a +$358,175 revenue boost without additional marketing spend.
 
+## 🧬 Research & Academic Background
+* **Bioinformatics Research Assistant:** Currently optimizing Python-based genomic data pipelines at Metro State University.
+* **Computer Science (B.S.):** 3.82 GPA | Focused on Algorithms, Machine Learning, and Data Structures.
+
+---
+
 Skills Highlighted
 Languages: Python (Pandas, SQL/PySQLDF), Matplotlib
 
