@@ -44,6 +44,17 @@ The Pivot: Recommended shifting resources from high-cost Customer Acquisition to
 
 Economic Simulation: Modeled a recovery plan where a 10% retention rate among existing "One-Timers" projects a +$358,175 revenue boost without additional marketing spend.
 
+## 3. Real Estate Market Intelligence — Automated Pipeline & Investor Dashboard
+Goal: Bridge the gap between raw market data and investment strategy by building a live "Deal Finder" for the Twin Cities housing market.
+
+**The Engineering:**
+* **Automated ETL:** Engineered a Python-based scraper to extract real-time pricing, square footage, and "Days on Market" from 5+ Twin Cities municipalities.
+* **Relational Infrastructure:** Built and maintained a **PostgreSQL database** to store historical market trends, implementing schema migrations to track seller motivation over time.
+* **Live Integration:** Established a data handshake between Python/SQLAlchemy and Power BI for a "Single Source of Truth."
+
+**🚀 [View the Python Extractor](./Real_Estate_Project/extractor.py) | [View SQL Schema](./Real_Estate_Project/schema.sql)**
+
+
 ## 🧬 Research & Academic Background
 * **Bioinformatics Research Assistant:** Currently optimizing Python-based genomic data pipelines at Metro State University.
 * **Computer Science (B.S.):** 3.82 GPA | Focused on Algorithms, Machine Learning, and Data Structures.
