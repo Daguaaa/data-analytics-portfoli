@@ -52,7 +52,7 @@ Goal: Bridge the gap between raw market data and investment strategy by building
 * **Relational Infrastructure:** Built and maintained a **PostgreSQL database** to store historical market trends, implementing schema migrations to track seller motivation over time.
 * **Live Integration:** Established a data handshake between Python/SQLAlchemy and Power BI for a "Single Source of Truth."
 
-**🚀 [View the Python Extractor](./Real_Estate_Project/extractor.py) | [View SQL Schema](./Real_Estate_Project/schema.sql)**
+**🚀 [View the Python Extractor](./extractor.py) | [View SQL Schema](./schema.sql)**
 
 
 ## 🧬 Research & Academic Background
